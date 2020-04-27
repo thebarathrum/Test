@@ -1,0 +1,25 @@
+C:\Users\КлюевАМ\Desktop\World Yachts\bin\Debug\World Yachts.exe.config
+C:\Users\КлюевАМ\Desktop\World Yachts\bin\Debug\World Yachts.exe
+C:\Users\КлюевАМ\Desktop\World Yachts\bin\Debug\World Yachts.pdb
+C:\Users\КлюевАМ\Desktop\World Yachts\obj\Debug\World Yachts.csprojAssemblyReference.cache
+C:\Users\КлюевАМ\Desktop\World Yachts\obj\Debug\World_Yachts.Properties.Resources.resources
+C:\Users\КлюевАМ\Desktop\World Yachts\obj\Debug\World Yachts.csproj.GenerateResource.cache
+C:\Users\КлюевАМ\Desktop\World Yachts\obj\Debug\World Yachts.csproj.CoreCompileInputs.cache
+C:\Users\КлюевАМ\Desktop\World Yachts\obj\Debug\World Yachts.exe
+C:\Users\КлюевАМ\Desktop\World Yachts\obj\Debug\World Yachts.pdb
+C:\Users\КлюевАМ\Desktop\World Yachts\obj\Debug\World_Yachts.Auth.resources
+C:\Users\КлюевАМ\Desktop\World Yachts\obj\Debug\World_Yachts.Administrator.resources
+C:\Users\КлюевАМ\Desktop\World Yachts\obj\Debug\World_Yachts.Manager.resources
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World Yachts.csprojAssemblyReference.cache
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World_Yachts.Administrator.resources
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World_Yachts.Auth.resources
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World_Yachts.Manager.resources
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World_Yachts.Properties.Resources.resources
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World Yachts.csproj.GenerateResource.cache
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World Yachts.csproj.CoreCompileInputs.cache
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World Yachts.exe
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World Yachts.pdb
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\bin\Debug\World Yachts.exe.config
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\bin\Debug\World Yachts.exe
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\bin\Debug\World Yachts.pdb
+Y:\Student\16ИС\ПМ.01 Распределенная\Клюев\World Yachts\obj\Debug\World_Yachts.Registration.resources
